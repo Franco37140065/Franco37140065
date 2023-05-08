@@ -37,7 +37,9 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![Chakra UI](https://img.shields.io/badge/Chakra-UI%20-%231572B6.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white)
+   ![Chakra UI](https://img.shields.io/badge/Chakra%20UI%20-%231572B6.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white)
+   ![React](https://img.shields.io/badge/React%20-%231572B6.svg?style=for-the-badge&logo=React&logoColor=white)
+   ![Redux](https://img.shields.io/badge/Redux%20-%231572B6.svg?style=for-the-badge&logo=Redux&logoColor=white)
     
 <br>
 
@@ -70,8 +72,8 @@
 <div align="center">
 
 <a href="https://github.com/Franco37140065/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Franco37140065"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Franco37140065&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Franco37140065&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Franco37140065"/>
 
 </a>
 </div>
@@ -93,7 +95,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/franco-gonzalez-273154168/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Franco-gonzalez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Franco%20gonzalez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
