@@ -116,11 +116,7 @@
 <br>
 <br>
 
-<div align='center'>
 
-## <b>✨</b>
-
-</div>
 <br>
 <br>
 <br>
